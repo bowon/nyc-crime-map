@@ -9,7 +9,7 @@ from random import betavariate
 from string import ascii_uppercase
 import itertools
 
-import requests
+#import requests
 
 KEY = 'AIzaSyDW3Wvk6xWLlLI6Bfu29DuDaseX-g18_mo'
 DIRECTORY = os.path.join('data', 'all_results')
